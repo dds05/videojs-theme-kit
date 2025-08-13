@@ -1,3 +1,5 @@
+<a href="https://nodei.co/npm/videojs-theme-kit/"><img src="https://nodei.co/npm/videojs-theme-kit.svg?data=d"></a>
+
 ## 🎨 Videojs Theme Kit
 Video.js plugin to easily customize and apply beautiful skins to player with minimal setup. <br/> <br/>
 Includes 4 modern themes : Slate, Spaced, Sleek, and Zen to instantly enhance the look and feel of your player. It is lightweight and supports infinite color customization, allowing you to perfectly match your brand or aesthetic without writing custom CSS.
@@ -47,3 +49,4 @@ https://videojs-theme-kit-site.vercel.app/
 
 ## ❤️ Support
 https://buymeacoffee.com/dds05
+
